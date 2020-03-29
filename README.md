@@ -7,10 +7,6 @@
  * Aishanya Singh
  * Pratyush Goel
 
->blah blaah balh
->
->then start codsdbdbasvdqw
->lcdscsvaszcmsdbcakc;caszxcsdc
->the combining sql with java through jdbc
->
->tyvm
+>Created a mobile retail management service where a user can sign up/login, search phones and view details, apply search filters, compare phones, maintain a cart and place orders 
+Implemented using Java, MySql and JDBC, aim was to understand and implement concepts of Database management
+
